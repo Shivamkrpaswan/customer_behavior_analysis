@@ -28,7 +28,7 @@ This project analyzes transactional shopping data to uncover patterns in custome
 | Category | Tools |
 |---|---|
 | Data Handling & EDA | Python (pandas) |
-| Database / Querying | PostgreSQL / MySQL / SQL Server |
+| Database / Querying | PostgreSQL |
 | Visualization | Power BI |
 | Reporting | Word / PDF |
 | Presentation | Gamma |
