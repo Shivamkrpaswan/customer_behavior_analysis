@@ -153,4 +153,4 @@ The Power BI dashboard includes:
 
 ## Author
 
-Shivam — BCom Honours student transitioning into data analytics.
+Shivam — B.Tech student transitioning into data analytics.
